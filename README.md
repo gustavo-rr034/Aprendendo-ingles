@@ -39,4 +39,4 @@ Se tiver sugestões, ideias de recursos novos ou encontrar algum bug, sinta-se �
 
 📬 Contato:
 
-GitHub: gustavo-rr034
+GitHub: https://github.com/gustavo-rr034
